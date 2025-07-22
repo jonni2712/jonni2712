@@ -32,7 +32,7 @@ I love turning ideas into reality using code and modern web technologies.
 
 Some of my highlighted projects:
 
-- 🎥 **Sendly** – Secure file-sharing platform  
+- 🎥 **Flyfile** – Secure file-sharing platform  
 - 🔐 **OSINT Enterprise** – Investigative intelligence suite  
 - 💸 **FinanceApp** – Personal finance tracker with banking APIs  
 - 📦 **Affiliate Tracker** – PrestaShop module for affiliate marketing  
