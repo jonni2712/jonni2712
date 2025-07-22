@@ -49,6 +49,7 @@ Amo trasformare idee in soluzioni concrete, scalabili e utili, attraverso codice
 🟡 **Lang Redirect Pro**  
 *Plugin WordPress per il reindirizzamento automatico in base alla lingua*  
 📅 In uscita nei prossimi mesi – sarà disponibile a pagamento
+
 ---
 
 ## 📫 Contatti
