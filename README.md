@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Jonathan Boccotti
 
-<!--
-**jonni2712/jonni2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Developer | 🧠 AI Researcher | 🛠️ Software Architect  
+🇮🇹 Based in Italy | 💼 Founder of [i-creativi.com](https://www.i-creativi.com/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧾 About Me
+
+I'm passionate about building useful digital products, automating workflows, and exploring the frontier of artificial intelligence.  
+I love turning ideas into reality using code and modern web technologies.
+
+- 🔭 Currently working on:  
+  - An autonomous AI system inspired by *Person of Interest*  
+  - A self-hosted media streaming platform like Plex  
+  - Multiple SaaS platforms for automation, crypto, and security
+
+- 💬 Ask me about:  
+  - AI, machine learning, and data pipelines  
+  - Laravel, Node.js, Vue, React, Docker, Replit  
+  - WordPress & PrestaShop development  
+  - Server management & DevOps
+
+- 🌱 Currently learning:  
+  - Advanced ML architectures  
+  - Compiler and language design  
+  - Full-stack app scalability
+
+---
+
+## 📂 Projects
+
+Some of my highlighted projects:
+
+- 🎥 **Sendly** – Secure file-sharing platform  
+- 🔐 **OSINT Enterprise** – Investigative intelligence suite  
+- 💸 **FinanceApp** – Personal finance tracker with banking APIs  
+- 📦 **Affiliate Tracker** – PrestaShop module for affiliate marketing  
+- 🌐 **Lang Redirect Pro** – WP plugin for language-based redirection
+
+👉 Check my pinned repositories for source code!
+
+---
+
+## 📫 Let's Connect
+
+- 🌍 Website: [i-creativi.com](https://www.i-creativi.com/)
+- 💼 LinkedIn: [linkedin.com/in/jonathanboccotti](https://linkedin.com/in/jonathanboccotti)
+- 📧 Email: jonathan@i-creativi.com
+
+---
+
+⭐️ If you like what I do, consider starring some repos or following me!
+
