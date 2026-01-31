@@ -31,7 +31,7 @@ Amo trasformare idee in soluzioni concrete, scalabili e utili, attraverso codice
 
 🟢 **Flyfile**  
 *Piattaforma sicura e veloce per la condivisione file*  
-🔗 [flyfile.it](https://flyfile.it) – in fase di completamento
+🔗 [flyfile.it](https://flyfile.it)
 
 🟡 **OSINT Enterprise**  
 *Suite investigativa open source intelligence per aziende e analisti*  
