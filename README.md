@@ -6,7 +6,7 @@
 
 ## 🧾 Chi sono
 
-Mi occupo di sviluppo software, intelligenza artificiale e automazione.  
+Mi occupo di sviluppo software, intelligenza artificiale e automazione.
 Amo trasformare idee in soluzioni concrete, scalabili e utili, attraverso codice e tecnologie moderne.
 
 - 🔭 Attualmente sto lavorando a:
@@ -29,25 +29,34 @@ Amo trasformare idee in soluzioni concrete, scalabili e utili, attraverso codice
 
 ## 📂 Progetti in evidenza
 
-🟢 **Flyfile**  
-*Piattaforma sicura e veloce per la condivisione file*  
+🟢 **Webmaster Monitor**
+*Piattaforma all-in-one per il monitoraggio di siti web, domini, certificati SSL, uptime e aggiornamenti WordPress. Pensata per agenzie che gestiscono 800+ siti.*
+🔗 [GitHub](https://github.com/i-creativi/webmaster-monitor)
+
+🟢 **Webmaster Monitor Plugin**
+*Plugin WordPress companion per Webmaster Monitor. Sincronizza dati del sito, aggiornamenti, info server e abilita la gestione remota via REST API.*
+🔗 [GitHub](https://github.com/i-creativi/webmaster-monitor-plugin)
+📅 Versione **PrestaShop** in arrivo
+
+🟢 **Flyfile**
+*Piattaforma sicura e veloce per la condivisione file*
 🔗 [flyfile.it](https://flyfile.it)
 
-🟡 **OSINT Enterprise**  
-*Suite investigativa open source intelligence per aziende e analisti*  
+🟡 **OSINT Enterprise**
+*Suite investigativa open source intelligence per aziende e analisti*
 📅 In uscita a **gennaio 2026** – sarà disponibile come servizio a pagamento
 
-🟡 **FinanceApp**  
-*App personale per il monitoraggio dei conti e delle spese bancarie*  
+🟡 **FinanceApp**
+*App personale per il monitoraggio dei conti e delle spese bancarie*
 📅 In uscita a **ottobre/novembre 2025**
 
-🟢 **Affiliate Tracker**  
-*Modulo PrestaShop per il marketing affiliati con tracking e report*  
-✅ Già completato – in attesa di approvazione su PrestaShop Addons  
+🟢 **Affiliate Tracker**
+*Modulo PrestaShop per il marketing affiliati con tracking e report*
+✅ Già completato – in attesa di approvazione su PrestaShop Addons
 💸 Sarà disponibile a pagamento
 
-🟡 **Lang Redirect Pro**  
-*Plugin WordPress per il reindirizzamento automatico in base alla lingua*  
+🟡 **Lang Redirect Pro**
+*Plugin WordPress per il reindirizzamento automatico in base alla lingua*
 📅 In uscita nei prossimi mesi – sarà disponibile a pagamento
 
 ---
