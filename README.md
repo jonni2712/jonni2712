@@ -31,7 +31,7 @@ Amo trasformare idee in soluzioni concrete, scalabili e utili, attraverso codice
 
 🟢 **Webmaster Monitor**  
 *Piattaforma all-in-one per il monitoraggio di siti web, domini, certificati SSL, uptime e aggiornamenti WordPress. Pensata per agenzie che gestiscono 800+ siti.*  
-🔗 [Webmaster Monitor](https://webmaster-ruby.vercel.app/) - [GitHub](https://github.com/jonni2712/webmaster-monitor)
+🔗 [Webmaster Monitor](https://webmaster-ruby.vercel.app/) - [GitHub](https://github.com/jonni2712/Webmaster)
 
 🟢 **Webmaster Monitor Plugin**  
 *Plugin WordPress companion per Webmaster Monitor. Sincronizza dati del sito, aggiornamenti, info server e abilita la gestione remota via REST API.*  
