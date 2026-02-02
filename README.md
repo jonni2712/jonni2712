@@ -31,7 +31,7 @@ Amo trasformare idee in soluzioni concrete, scalabili e utili, attraverso codice
 
 🟢 **Webmaster Monitor**  
 *Piattaforma all-in-one per il monitoraggio di siti web, domini, certificati SSL, uptime e aggiornamenti WordPress. Pensata per agenzie che gestiscono 800+ siti.*  
-🔗 [Webmaster Monitor](https://webmaster-ruby.vercel.app/) - [GitHub](https://github.com/jonni2712/Webmaster)
+🔗 [Webmaster Monitor](https://webmaster-ruby.vercel.app/) | [GitHub](https://github.com/jonni2712/Webmaster)
 
 🟢 **Webmaster Monitor Plugin**  
 *Plugin WordPress companion per Webmaster Monitor. Sincronizza dati del sito, aggiornamenti, info server e abilita la gestione remota via REST API.*  
@@ -40,7 +40,7 @@ Amo trasformare idee in soluzioni concrete, scalabili e utili, attraverso codice
 
 🟢 **Flyfile**  
 *Piattaforma sicura e veloce per la condivisione file*  
-🔗 [FlyFile](https://flyfile.it) - [GitHub](https://github.com/jonni2712/flyfile)
+🔗 [FlyFile](https://flyfile.it) | [GitHub](https://github.com/jonni2712/flyfile)
 
 🟡 **OSINT Enterprise**  
 *Suite investigativa open source intelligence per aziende e analisti*  
@@ -51,9 +51,13 @@ Amo trasformare idee in soluzioni concrete, scalabili e utili, attraverso codice
 📅 In uscita a **ottobre/novembre 2025**
 
 🟢 **Affiliate Tracker**  
-*Modulo PrestaShop per il marketing affiliati con tracking e report*  
-✅ Già completato – in attesa di approvazione su PrestaShop Addons  
-💸 Sarà disponibile a pagamento
+*Plugin per PrestaShop e WordPress per il marketing affiliati con tracking e report*  
+✅ Già completato – in fase di finalizzazione sistema abbonamento e gestione licenze  
+💸 Sarà disponibile su Envato Elements e PrestaShop Addons
+
+🟢 **Excel Stock Sync**  
+*Modulo PrestaShop per la sincronizzazione massiva dello stock da file CSV/XLSX con supporto FTP e CRON*  
+🔗 [i-creativi.shop](https://i-creativi.shop/prodotto/excel-stock-sync-modulo-prestashop-per-sincronizzazione-stock/)
 
 🟡 **Lang Redirect Pro**  
 *Plugin WordPress per il reindirizzamento automatico in base alla lingua*  
