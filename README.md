@@ -31,8 +31,7 @@ Amo trasformare idee in soluzioni concrete, scalabili e utili, attraverso codice
 
 🟢 **Webmaster Monitor**  
 *Piattaforma all-in-one per il monitoraggio di siti web, domini, certificati SSL, uptime e aggiornamenti WordPress. Pensata per agenzie che gestiscono 800+ siti.*  
-🔗 [Webmaster Monitor](https://webmaster-ruby.vercel.app/) | [GitHub](https://github.com/jonni2712/Webmaster)
-
+🔗 [Webmaster Monitor](https://webmaster-ruby.vercel.app/) 
 🟢 **Webmaster Monitor Plugin**  
 *Plugin WordPress companion per Webmaster Monitor. Sincronizza dati del sito, aggiornamenti, info server e abilita la gestione remota via REST API.*  
 🔗 [GitHub](https://github.com/jonni2712/webmaster-monitor-plugin)  
@@ -40,7 +39,7 @@ Amo trasformare idee in soluzioni concrete, scalabili e utili, attraverso codice
 
 🟢 **Flyfile**  
 *Piattaforma sicura e veloce per la condivisione file*  
-🔗 [FlyFile](https://flyfile.it) | [GitHub](https://github.com/jonni2712/flyfile)
+🔗 [FlyFile](https://flyfile.it) 
 
 🟡 **OSINT Enterprise**  
 *Suite investigativa open source intelligence per aziende e analisti*  
