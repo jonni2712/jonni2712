@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Jonathan Boccotti
 
-🚀 Sviluppatore | 🧠 Ricercatore AI | 🛠️ Architetto Software | 🇮🇹 Vivo in Italia | 💼 Founder di [i-creativi.com](https://i-creativi.com/)
+🚀 Sviluppatore | 🧠 Ricercatore AI | 🛠️ Architetto Software | 🇮🇹 Vivo in Italia 
 
 ---
 
@@ -24,52 +24,6 @@ Amo trasformare idee in soluzioni concrete, scalabili e utili, attraverso codice
   - Architetture ML avanzate
   - Progettazione di linguaggi e compilatori
   - Scalabilità backend e sistemi distribuiti
-
----
-
-## 📂 Progetti in evidenza
-
-🟢 **Webmaster Monitor**  
-*Piattaforma all-in-one per il monitoraggio di siti web, domini, certificati SSL, uptime e aggiornamenti WordPress. Pensata per agenzie che gestiscono 800+ siti.*  
-🔗 [Webmaster Monitor](https://webmaster-ruby.vercel.app/) 
-
-🟢 **Webmaster Monitor Plugin**  
-*Plugin WordPress companion per Webmaster Monitor. Sincronizza dati del sito, aggiornamenti, info server e abilita la gestione remota via REST API.*  
-🔗 [GitHub](https://github.com/jonni2712/webmaster-monitor-plugin)  
-📅 Versione **PrestaShop** in arrivo
-
-🟢 **Flyfile**  
-*Piattaforma sicura e veloce per la condivisione file*  
-🔗 [FlyFile](https://flyfile.it) 
-
-🟡 **OSINT Enterprise**  
-*Suite investigativa open source intelligence per aziende e analisti*  
-📅 In uscita a **gennaio 2026** – sarà disponibile come servizio a pagamento
-
-🟡 **FinanceApp**  
-*App personale per il monitoraggio dei conti e delle spese bancarie*  
-📅 In uscita a **ottobre/novembre 2025**
-
-🟢 **Affiliate Tracker**  
-*Plugin per PrestaShop e WordPress per il marketing affiliati con tracking e report*  
-✅ Già completato – in fase di finalizzazione sistema abbonamento e gestione licenze  
-💸 Sarà disponibile su Envato Elements e PrestaShop Addons
-
-🟢 **Excel Stock Sync**  
-*Modulo PrestaShop per la sincronizzazione massiva dello stock da file CSV/XLSX con supporto FTP e CRON*  
-🔗 [i-creativi.shop](https://i-creativi.shop/prodotto/excel-stock-sync-modulo-prestashop-per-sincronizzazione-stock/)
-
-🟡 **Lang Redirect Pro**  
-*Plugin WordPress per il reindirizzamento automatico in base alla lingua*  
-📅 In uscita nei prossimi mesi – sarà disponibile a pagamento
-
----
-
-## 📫 Contatti
-
-- 🌍 Sito web: [i-creativi.com](https://i-creativi.com/)
-- 💼 LinkedIn: [linkedin.com/in/jonathanboccotti](https://linkedin.com/in/jonathanboccotti)
-- 📧 Email: jonathan@i-creativi.com
 
 ---
 
